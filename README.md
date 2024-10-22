@@ -48,6 +48,8 @@ A full-featured CRUD (Create, Read, Update, Delete) application for managing rec
 ├── app.js          # Main application setup
 └── package.json    # Project dependencies and scripts
 
+```
+
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue if you find bugs or have feature requests.
 
